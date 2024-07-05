@@ -13,3 +13,5 @@ Jimageliteapi/src/main/java/com/brito/imageliteapi/domain/entity/Image.java,b\9
 `imageliteapi/src/main/java/com/brito/imageliteapi/domain/entity/domain/enums/ImageExtension.java,6\0\60c78ef459c5f1b4645c0ca8bd8d5faa3a41049e
 ‚
 Rimageliteapi/src/main/java/com/brito/imageliteapi/domain/enums/ImageExtension.java,e\3\e3f58a9d1cb75b7487a99d8c3646ee5605624361
+‡
+Wimageliteapi/src/main/java/com/brito/imageliteapi/infra/repository/ImageRepository.java,1\f\1f16d5993a32950a8792fe9c80c3471fab103c14
